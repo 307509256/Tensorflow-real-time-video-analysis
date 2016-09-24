@@ -1,8 +1,7 @@
 # Tensorflow-real-time-video-analysis
 
 ##Introduction:
-Tensorflow provides many powerful libraries for object detection and segmentation in images. In this increment, I tried to implement one such advancement in deep learning, The Inception Architecture, for detection and segmentation of objects in images and generating captions to explain objects in images. For this increment, I tried to use image frames extracted from videos (for testing, training is done on large datasets).
-
+Tensorflow provides many powerful libraries for object detection and segmentation in images. In this increment, I tried to implement one such advancement in deep learning, The Inception Architecture, for detection and segmentation of objects in images and generating captions to explain objects in images. The system, currently in development, can automatically generate captions from input images.
 ##Objectives:
 Design a real-time video analysis system using deep learning framework Tensorflow.
 Automatically detect objects in video and segment them. The system will be pre-trained on training datasets and a model is generated. Based on available computing resources the video is divided into 30/60 frames/second and objects will be classified/detected and segmented.
@@ -10,6 +9,7 @@ Automatically generate captions for currently displayed frames. It can be helpfu
 
 ##Data sources:
 Microsoft COCO image caption generation, object segmentation and dataset for training the inception architecture. 
+
 Flickr30k image Dataset for training and testing the generated image captions.
 
 ##Tools: 
