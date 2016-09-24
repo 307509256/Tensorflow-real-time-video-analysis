@@ -40,8 +40,10 @@ scikit-image
 
 [7]. https://github.com/tensorflow/models/tree/master/im2txt#a-note-on-hardware-and-training-time
 
-[8]. http://mscoco.org/
+[8]. https://github.com/jazzsaxmafia/show_and_tell.tensorflow
 
-[9]. http://shannon.cs.illinois.edu/DenotationGraph/
+[9]. http://mscoco.org/
+
+[10]. http://shannon.cs.illinois.edu/DenotationGraph/
 
 
