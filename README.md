@@ -13,12 +13,16 @@ Microsoft COCO image caption generation, object segmentation and dataset for tra
 Flickr30k image Dataset for training and testing the generated image captions.
 
 ##Tools: 
-No APIs are used in designing the system. 
 Tensorflow
+
 Google Protobuf
+
 NumPy
+
 Keras
+
 OpenCV
+
 scikit-image 
 
 ##References:
