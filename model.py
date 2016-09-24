@@ -163,8 +163,6 @@ data_path = './data'
 feat_path = './data/feats.npy'
 annotation_path = os.path.join(data_path, 'results_20130124.token')
 
-
-
 def train():
 
     learning_rate = 0.001
