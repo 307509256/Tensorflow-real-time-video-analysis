@@ -1,24 +1,18 @@
 # Tensorflow-real-time-video-analysis
-Project pre-proposal
 
-Project title: Real-time object detection in videos 
-Team number: 8 / Dig Vijay Kumar Yarlagadda (Class ID: 26)
-
-Project goal and Objectives: -
-
-Introduction:
+##Introduction:
 Tensorflow provides many powerful libraries for object detection and segmentation in images. In this increment, I tried to implement one such advancement in deep learning, The Inception Architecture, for detection and segmentation of objects in images and generating captions to explain objects in images. For this increment, I tried to use image frames extracted from videos (for testing, training is done on large datasets).
 
-Objectives:
+##Objectives:
 Design a real-time video analysis system using deep learning framework Tensorflow.
 Automatically detect objects in video and segment them. The system will be pre-trained on training datasets and a model is generated. Based on available computing resources the video is divided into 30/60 frames/second and objects will be classified/detected and segmented.
 Automatically generate captions for currently displayed frames. It can be helpful in assisting blind people. 
 
-Data sources:
+##Data sources:
 Microsoft COCO image caption generation, object segmentation and dataset for training the inception architecture. 
 Flickr30k image Dataset for training and testing the generated image captions.
 
-Tools: 
+##Tools: 
 No APIs are used in designing the system. 
 Tensorflow
 Google Protobuf
@@ -27,7 +21,7 @@ Keras
 OpenCV
 scikit-image 
 
-References:
+##References:
 [1]. Vinyals, Oriol, et al. "Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge." (2016).
 [2]. He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015).
 [3]. https://github.com/tensorflow/tensorflow
