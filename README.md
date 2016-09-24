@@ -27,13 +27,21 @@ scikit-image
 
 ##References:
 [1]. Vinyals, Oriol, et al. "Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge." (2016).
+
 [2]. He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015).
+
 [3]. https://github.com/tensorflow/tensorflow
+
 [4]. Donahue, Jeffrey, et al. "Long-term recurrent convolutional networks for visual recognition and description." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.
+
 [5]. Cho, Kyunghyun, Aaron Courville, and Yoshua Bengio. "Describing multimedia content using attention-based encoder-decoder networks." IEEE Transactions on Multimedia 17.11 (2015): 1875-1886.
+
 [6].  https://research.googleblog.com/
-7]. https://github.com/tensorflow/models/tree/master/im2txt#a-note-on-hardware-and-training-time
+
+[7]. https://github.com/tensorflow/models/tree/master/im2txt#a-note-on-hardware-and-training-time
+
 [8]. http://mscoco.org/
-[10]. http://shannon.cs.illinois.edu/DenotationGraph/
+
+[9]. http://shannon.cs.illinois.edu/DenotationGraph/
 
 
