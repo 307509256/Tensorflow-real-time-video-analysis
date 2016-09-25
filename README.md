@@ -41,7 +41,7 @@ Testing the model on the same image multiple times, results in different output 
 ![](https://cloud.githubusercontent.com/assets/16812117/18818848/26f287d6-834a-11e6-9cd0-8d66a1e4c2d4.PNG)
 
 
-As the model is not fully trained, the model wrongly predicted university sign-board as a man in blue shirt.
+As the model is not fully trained, it wrongly predicted university sign-board as a man in blue shirt.
 
 
 
