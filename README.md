@@ -14,10 +14,15 @@ Flickr30k image Dataset for training and testing the generated image captions.
 
 ##Tools: 
 Tensorflow
+
 Google Protobuf
+
 NumPy
+
 Keras
+
 OpenCV
+
 scikit-image 
 
 ##Sample Input/Output
