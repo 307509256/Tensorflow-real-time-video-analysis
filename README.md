@@ -28,9 +28,22 @@ scikit-image
 ##Sample Input/Output
 Training the model requires significant GPU computing power. After training the model for some time on my local machine, the results are not that good. There are pre-trained models available on the same Flickr 30k dataset, I tested my input images on one of such models, [model-72](https://drive.google.com/file/d/0B5o40yxdA9PqeW4wY0wwZXhrZkE/view) made available by the user Taeksoo Kim [@jazzsaxmafia](https://github.com/jazzsaxmafia).  
 
-Input
+###Input
 
-![](https://cloud.githubusercontent.com/assets/16812117/18818788/faeca41a-8348-11e6-8a2c-de4ae38dce4b.jpg)![](https://cloud.githubusercontent.com/assets/16812117/18818772/75147110-8348-11e6-92d4-9bff09fa2bbe.PNG)
+![](https://cloud.githubusercontent.com/assets/16812117/18818788/faeca41a-8348-11e6-8a2c-de4ae38dce4b.jpg)
+
+###Output
+
+Testing the model on the same image multiple times, results in different output each time.
+
+![](https://cloud.githubusercontent.com/assets/16812117/18818772/75147110-8348-11e6-92d4-9bff09fa2bbe.PNG)
+
+![](https://cloud.githubusercontent.com/assets/16812117/18818848/26f287d6-834a-11e6-9cd0-8d66a1e4c2d4.PNG)
+
+
+As the model is not fully trained, the model wrongly predicted university sign-board as a man in blue shirt.
+
+
 
 ##References:
 [1]. Vinyals, Oriol, et al. "Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge." (2016).
