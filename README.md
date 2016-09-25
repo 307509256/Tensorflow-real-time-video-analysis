@@ -66,4 +66,4 @@ As the model is not fully trained, it wrongly predicted university sign-board as
 
 [10]. http://shannon.cs.illinois.edu/DenotationGraph/
 
-
+[11]. Data Reference - https://board.um.umsystem.edu/October%2023%202014%20Board%20of%20Curators%20Meeting/Governance,%20Resources%20and%20Planning/ACTION%201%20-%202014%20Campus%20Master%20Plan%20Update%20-%20UMKC.pdf
