@@ -25,7 +25,7 @@ OpenCV
 
 scikit-image 
 
-##Sample Input/Output
+## Input/Output
 Training the model requires significant GPU computing power. After training the model for some time on my local machine, the results are not that good. There are pre-trained models available on the same Flickr 30k dataset, I tested my input images on one of such [model](https://drive.google.com/file/d/0B5o40yxdA9PqeW4wY0wwZXhrZkE/view) made available by the user Taeksoo Kim [@jazzsaxmafia](https://github.com/jazzsaxmafia).  
 
 ###Input
